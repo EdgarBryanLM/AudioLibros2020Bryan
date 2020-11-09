@@ -20,6 +20,7 @@ public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() {
         int numero;
+        int numero3;
         // Context of the app under test.
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
